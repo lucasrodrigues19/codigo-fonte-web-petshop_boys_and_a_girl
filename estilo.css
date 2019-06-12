@@ -1,0 +1,204 @@
+﻿@import url('https://fonts.googleapis.com/css?family=Just+Another+Hand');
+
+
+div#topo{
+    width: 900px;
+    margin: auto;
+    display: block;
+    border: 1px solid #ddd;
+    box-shadow: 2px 2px 2px black;
+    padding: 10px;
+    margin-top: 70px;
+
+}
+
+header#menu img{
+    width: 450px;
+    height: 400px;
+    position: relative;
+    margin-bottom: -30px;
+
+}
+header#menu h1{
+    font-family: arial, sans-serif;
+    color: #20B2AA;
+
+}
+ul#list li{
+    list-style: none;
+    color: black;
+    margin-right: 2px;
+    margin-bottom: 20px;
+    font-family: 'Just Another Hand', cursive;
+    font-size: 30px;
+    border: 1px solid #ddd;
+    box-shadow: 2px 2px 2px #000;
+}
+ul{
+    float: right;
+    position: relative;
+    top: -450px;
+    right: 400px;
+}
+a{
+    text-decoration: none;
+    color: #000;
+}
+a:hover{
+    text-decoration: underline;
+    color: red;
+}
+/*formulario do cadastro*/
+ form#cad{
+    display: block;
+    position: relative;
+    top: -200px;
+    width: 300px;
+    font-family: 'Just Another Hand', cursive;
+    border: 1px solid #ddd;
+    box-shadow: 2px 2px 2px black;
+   text-align: center;
+    padding: 10px;
+    left:200px;
+}
+
+ 
+.del{
+     display: block;
+    position: relative;
+    top: -290px;
+    left: 240px;
+    width: 300px;
+    margin: auto;
+    font-family: 'Just Another Hand', cursive;
+    border: 1px solid #ddd;
+    box-shadow: 2px 2px 2px black;
+   text-align: center;
+    padding: 10px;
+ }
+ 
+ .del form input{
+     padding:5px;
+ }
+
+.formulario{
+    color: #fff;
+    text-shadow: 2px 2px 2px black;
+    font-family: arial, sans-serif;
+}
+
+
+
+form#login{
+     display: block;
+    position: relative;
+    top: 20px;
+    width: 300px;
+    margin: auto;
+    font-family: 'Just Another Hand', cursive;
+    border: 1px solid #ddd;
+    box-shadow: 2px 2px 2px black;
+    padding: 10px;
+    text-align: center;
+   margin-bottom:50px;
+   float: right;
+   top: -300px;
+   left: 100px;
+}
+
+input#ibtcad{
+    color: #fff;
+    font-weight: bold;
+    text-shadow: 2px 2px 2px black;
+    font-family: arial, sans-serif;
+    background-color: #ddd;
+    text-transform: uppercase;
+}
+
+form#fmenu{
+     display: block;
+    position: relative;
+    top: 20px;
+    width: 300px;
+    margin: auto;
+    font-family: 'Just Another Hand', cursive;
+    border: 1px solid #ddd;
+    box-shadow: 2px 2px 2px black;
+    padding: 10px;
+    text-align: center;
+   margin-bottom:50px;
+   float: right;
+   top: -300px;
+   left: 80px;
+}
+
+form#consultar{
+    display: block;
+    position: relative;
+    font-size: 18pt;
+    text-transform: uppercase;
+    top: 20px;
+    width: 300px;
+    margin: auto;
+    font-family: 'Just Another Hand', cursive;
+    border: 1px solid #ddd;
+    box-shadow: 2px 2px 2px black;
+    padding: 10px;
+    text-align: center;
+   margin-bottom:50px;
+   float: right;
+   top: -420px;
+   left: 80px;
+}
+
+
+.editar{
+    color: black;
+    font-weight: bold;
+    border: none;   
+    padding: 5px;
+    font-size: 10pt;
+    text-transform: uppercase;
+    font-weight: bold;
+    
+}
+
+span{
+   color: red;
+}
+
+.erro{
+    position: relative;
+    left: 720px;
+    color: red;
+    top: -100px;
+    font-size: 15pt;
+    text-transform: uppercase;
+    
+}
+.fdel form {
+     display: block;
+    position: absolute;
+    font-size: 18pt;
+    text-transform: uppercase;
+    width:50px;
+    font-family: 'Just Another Hand', cursive;
+    border: none;
+    text-align: center;
+    top: -57px;
+    left:256px;
+}
+
+
+.editar{
+    color: black;
+    font-weight: bold;
+    border: none;   
+    padding: 5px;
+    font-size: 10pt;
+    text-transform: uppercase;
+    font-weight: bold;
+    
+}
+  
+
